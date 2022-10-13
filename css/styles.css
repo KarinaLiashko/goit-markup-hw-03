@@ -373,9 +373,8 @@ img {
 }
 
 /* Footer */
-a>.logo-footer,
-a>.logo-accent,
-a>.logo-white {
+span>.logo-accent,
+span>.logo-white {
     margin-bottom: 20px;
 }
 
