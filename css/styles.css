@@ -373,9 +373,10 @@ img {
 }
 
 /* Footer */
-.logo-footer {
+a>.logo-footer,
+a>.logo-accent,
+a>.logo-white {
     margin-bottom: 20px;
-    /* padding: 24px 0; */
 }
 
 .li-margin {
