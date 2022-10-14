@@ -128,6 +128,7 @@ img {
 }
 
 .logo-footer {
+    display: block;
     color: var(--color-inverted);
     text-decoration: none;
     font-family: 'Raleway', sans-serif;
@@ -137,6 +138,7 @@ img {
     line-height: 1.19;
     letter-spacing: 0.03em;
     list-style: none;
+    margin-bottom: 20px;
 }
 
 /* Navigation */
